@@ -7,7 +7,7 @@ import { navigationLinks } from "../navigationConsts"
 const NavigationMobile = () => {
     return (
         <Box 
-            color='red.600' 
+            color='blue.600' 
             padding='2rem'
             display={{base: 'block', md: 'none'}}
         >
